@@ -1,4 +1,4 @@
-# 統計的因果推論入門
+# 統計的因果推論関連文献集
 統計的因果推論を学んでいくための書籍・論文についてまとめました。  
 まずは超入門書 -> 入門書 -> 概説書の順で読み進めて理解を深めたうえで、各種テーマごとの論文に当たっていけると理解が深まると思います。
 
@@ -29,8 +29,10 @@
 ### 傾向スコアとそれを用いた因果推論の基礎
 |Id|Name|
 |-|-|
-|1|[P. Rosenbaum and D. Rubin (1983), "The Central Role of the Propensity Score in Observational Studies for Causal Effects", _Biometrika_, Vol. 70, 41-55](https://academic.oup.com/biomet/article/70/1/41/240879)|
-|2|[E. Stuart (2010), "Matching Methods for Causal Inference: A Review and a Look Forward", _Statistical Science_, Vol. 25, 1-21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)|
+|1|[R. Deheija and S. Wahba (1999), "Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs", _Journal of the American Statistical Association_, 94(448), 1053-1062](https://www.uh.edu/~adkugler/Dehejia&Wahba_JASA.pdf)|
+|2|[P. Rosenbaum and D. Rubin (1983), "The Central Role of the Propensity Score in Observational Studies for Causal Effects", _Biometrika_, Vol. 70, 41-55](https://academic.oup.com/biomet/article/70/1/41/240879)|
+|3|[E. Stuart (2010), "Matching Methods for Causal Inference: A Review and a Look Forward", _Statistical Science_, Vol. 25, 1-21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)|
+
 
 ### 傾向スコアから一般化傾向スコアへ
 |Id|Name|
@@ -38,3 +40,38 @@
 |1|[K. Hirano and G. Imbens (2004), "The Propensity Score with Continuous Treatments", in Gelman and Meng eds. _Applied Bayesian Modeling and Causal Inference from Missing Data Perspectives_, Wiley](http://www.math.mcgill.ca/dstephens/SISCR2017/Articles/HIrano-Imbens-2004.pdf)|
 |2|[K. Imai and D van Dyk (2004), "Causal Inference with General Treatment Regimes: Generalizing the Propensity Score", _Journal of the American Statistical Association_, Vol. 99, 854-866](https://imai.fas.harvard.edu/research/files/pscore.pdf)|
 |3|[G. Imbens (2000), "The Role of the Propensity Score in Estimating Dose-Response Functions", _Biometrika_, Vol. 87, 706-710](https://pdfs.semanticscholar.org/b9d2/3c91c9054433a4b5d31553f55cf6ae7880b1.pdf)|
+
+### 傾向スコアマッチング/ウェイティングをより深く理解する
+|Id|Name|
+|-|-|
+|1|[A. Abadie and G. Imbens (2011), "Bias-Corrected Matching Estimators for Average Treatment Effects", _Journal of Business & Economic Statistics_, Vol. 29(1), 1-11](https://economics.mit.edu/files/11861)|
+|2|[B. Lee, J. Lessler and E. Stuart (2011), "Weight Trimming and Propensity Score Weighting", _PLoS ONE_, 6(3): e18174](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069059/)|
+|3|[G. King and R. Nielsen (2018), "Why Propensity Scores should not be Used for Matching", _Political Analysis_, 27(4), 1-20](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)|
+
+
+### 様々な傾向スコア算出手法
+|Id|Name|
+|-|-|
+|1|K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
+|2|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
+
+### G-Methods
+|Id|Name|
+|-|-|
+|1|[A. Naimi (2017), "An Introduction to g methods", _International Journal of Epidemiology_, Vol. 46(2), 756-762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)|
+
+### 感度分析
+|Id|Name|
+|-|-|
+|1|[S. Athey and G. Imbens (2015), "A Measure of Robustness to Misspecification", _American Economic Review_, Vol. 105(5), 476-480](https://pdfs.semanticscholar.org/701f/8f1aa9c93ac478b8e1cbcef0e94b2a0d3821.pdf)|
+|2|[M. Blackwell (2014), "A Selection Bias Approach to Sensitivity Analysis for Causal Effects", _Political Analysis_, Vol. 22(2), 169-182](https://pdfs.semanticscholar.org/350b/5d60c84ac5194600b49051b6fc69e6c081ad.pdf)|
+|3|[T. VanderWeele (2017), "Sensitivity Analysis in Observational Research: Introducing the E-Value", _Annals of Internal Medicine_, Vol. 167(4), 268-274](https://dash.harvard.edu/bitstream/handle/1/36874927/EValue_FinalSubmission.pdf?sequence=1&isAllowed=y)|
+
+### 機械学習と因果推論の融合
+|Id|Name|
+|-|-|
+|1|[S. Athey and G. Imbens (2016), "Recursive Partitioning for Heterogeneous Causal Effects", _Proceedings of the National Academy of Sciences of the United States of America_, Vol. 113, 7353-7360](https://www.pnas.org/content/pnas/113/27/7353.full.pdf)|
+|2|[S. Athey, J. Tibshirani and S. Wager (2018), "Generalized Random Forests", _Annals of Statistics_, Vol. 47(2), 1148-1178](https://arxiv.org/abs/1610.01271)|
+|3|[S. Athey and S. Wager (2018), "Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests", _Journal of the American Statistical Association_, Vol. 113, 1228-1242](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1319839?needAccess=true)|
+|4|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
+|5|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
