@@ -52,7 +52,7 @@
 ### 様々な傾向スコア算出手法
 |Id|Name|
 |-|-|
-|1|K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
+|1|[K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
 |2|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
 
 ### G-Methods
