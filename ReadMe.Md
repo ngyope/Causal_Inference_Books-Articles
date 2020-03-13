@@ -32,3 +32,9 @@
 |1|[P. Rosenbaum and D. Rubin (1983), "The Central Role of the Propensity Score in Observational Studies for Causal Effects", _Biometrika_, Vol. 70, 41-55](https://academic.oup.com/biomet/article/70/1/41/240879)|
 |2|[E. Stuart (2010), "Matching Methods for Causal Inference: A Review and a Look Forward", _Statistical Science_, Vol. 25, 1-21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)|
 
+### 傾向スコアから一般化傾向スコアへ
+|Id|Name|
+|-|-|
+|1|[K. Hirano and G. Imbens (2004), "The Propensity Score with Continuous Treatments", in Gelman and Meng eds. _Applied Bayesian Modeling and Causal Inference from Missing Data Perspectives_, Wiley](http://www.math.mcgill.ca/dstephens/SISCR2017/Articles/HIrano-Imbens-2004.pdf)|
+|2|[K. Imai and D van Dyk (2004), "Causal Inference with General Treatment Regimes: Generalizing the Propensity Score", _Journal of the American Statistical Association_, Vol. 99, 854-866](https://imai.fas.harvard.edu/research/files/pscore.pdf)|
+|3|[G. Imbens (2000), "The Role of the Propensity Score in Estimating Dose-Response Functions", _Biometrika_, Vol. 87, 706-710](https://pdfs.semanticscholar.org/b9d2/3c91c9054433a4b5d31553f55cf6ae7880b1.pdf)|
