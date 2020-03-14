@@ -49,16 +49,12 @@
 |3|[G. King and R. Nielsen (2018), "Why Propensity Scores should not be Used for Matching", _Political Analysis_, 27(4), 1-20](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)|
 
 
-### 様々な傾向スコア算出手法
+### 様々なマッチング/ウェイティング手法
 |Id|Name|
 |-|-|
 |1|[K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
-|2|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
-
-### G-Methods
-|Id|Name|
-|-|-|
-|1|[A. Naimi (2017), "An Introduction to g methods", _International Journal of Epidemiology_, Vol. 46(2), 756-762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)|
+|2|[A. Naimi (2017), "An Introduction to g methods", _International Journal of Epidemiology_, Vol. 46(2), 756-762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)|
+|3|[M. Schuler and S. Rose (2016), "Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies", _American Journal of Epidemiology_, Vol.185(1), 65-73](https://academic.oup.com/aje/article/185/1/65/2662306)|
 
 ### 感度分析
 |Id|Name|
@@ -73,5 +69,6 @@
 |1|[S. Athey and G. Imbens (2016), "Recursive Partitioning for Heterogeneous Causal Effects", _Proceedings of the National Academy of Sciences of the United States of America_, Vol. 113, 7353-7360](https://www.pnas.org/content/pnas/113/27/7353.full.pdf)|
 |2|[S. Athey, J. Tibshirani and S. Wager (2018), "Generalized Random Forests", _Annals of Statistics_, Vol. 47(2), 1148-1178](https://arxiv.org/abs/1610.01271)|
 |3|[S. Athey and S. Wager (2018), "Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests", _Journal of the American Statistical Association_, Vol. 113, 1228-1242](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1319839?needAccess=true)|
-|4|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
-|5|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
+|4|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
+|5|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
+|6|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
