@@ -49,7 +49,7 @@
 |3|[G. King and R. Nielsen (2018), "Why Propensity Scores should not be Used for Matching", _Political Analysis_, 27(4), 1-20](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)|
 
 
-### 様々なマッチング/ウェイティング手法
+### 様々な推定手法
 |Id|Name|
 |-|-|
 |1|[S. Gruber and M. van der Laan (2012), "tmle: An R Package for Targeted Maximum Likelihood Estimation", _Journal of Statistical Software_, 51(13), 1-35](https://www.jstatsoft.org/article/view/v051i13)|
