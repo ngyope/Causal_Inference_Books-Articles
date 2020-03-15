@@ -52,9 +52,10 @@
 ### 様々なマッチング/ウェイティング手法
 |Id|Name|
 |-|-|
-|1|[K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
-|2|[A. Naimi (2017), "An Introduction to g methods", _International Journal of Epidemiology_, Vol. 46(2), 756-762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)|
-|3|[M. Schuler and S. Rose (2016), "Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies", _American Journal of Epidemiology_, Vol.185(1), 65-73](https://academic.oup.com/aje/article/185/1/65/2662306)|
+|1|[S. Gruber and M. van der Laan (2012), "tmle: An R Package for Targeted Maximum Likelihood Estimation", _Journal of Statistical Software_, 51(13), 1-35](https://www.jstatsoft.org/article/view/v051i13)|
+|2|[K. Imai and M. Ratkovic (2014), “Covariate Balancing Propensity Score”, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, Vol. 76, 243-263](https://imai.fas.harvard.edu/research/files/CBPS.pdf)|
+|3|[A. Naimi (2017), "An Introduction to g methods", _International Journal of Epidemiology_, Vol. 46(2), 756-762](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6074945/)|
+|4|[M. Schuler and S. Rose (2016), "Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies", _American Journal of Epidemiology_, Vol.185(1), 65-73](https://academic.oup.com/aje/article/185/1/65/2662306)|
 
 ### 感度分析
 |Id|Name|
