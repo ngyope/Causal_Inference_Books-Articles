@@ -47,7 +47,7 @@
 |1|[A. Abadie and G. Imbens (2011), "Bias-Corrected Matching Estimators for Average Treatment Effects", _Journal of Business & Economic Statistics_, Vol. 29(1), 1-11](https://economics.mit.edu/files/11861)|
 |2|[B. Lee, J. Lessler and E. Stuart (2011), "Weight Trimming and Propensity Score Weighting", _PLoS ONE_, 6(3): e18174](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069059/)|
 |3|[G. King and R. Nielsen (2018), "Why Propensity Scores should not be Used for Matching", _Political Analysis_, 27(4), 1-20](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)|
-|4|[T. Stümer, S. Schneeweiss, J. Avorn and R. Glynn(2005),"Adjusting Effect Estimates for Unmeasured Confounding with Validation Data using Propensity Score Calibration", _American Journal of Epidemiology_, Vol. 162, 279-289](https://academic.oup.com/aje/article/162/3/279/171198)|
+|4|[T. Stümer, S. Schneeweiss, J. Avorn and R. Glynn (2005),"Adjusting Effect Estimates for Unmeasured Confounding with Validation Data using Propensity Score Calibration", _American Journal of Epidemiology_, Vol. 162, 279-289](https://academic.oup.com/aje/article/162/3/279/171198)|
 
 
 ### 様々な推定手法
@@ -74,3 +74,8 @@
 |4|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
 |5|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
 |6|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
+
+### Interrupted Time Series Analysis
+|Id|Name|
+|-|-|
+|1|[J. Bernal, S. Cummins and A. Gasparrini (2016), "Interrupted Time Series Regression for the Evaluation of Public Health Interventions: a Tutorial", _International Journal of Epidemiology_, Vol. 46(1), 348-355](https://academic.oup.com/ije/article/46/1/348/2622842)|
