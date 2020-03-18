@@ -71,9 +71,10 @@
 |1|[S. Athey and G. Imbens (2016), "Recursive Partitioning for Heterogeneous Causal Effects", _Proceedings of the National Academy of Sciences of the United States of America_, Vol. 113, 7353-7360](https://www.pnas.org/content/pnas/113/27/7353.full.pdf)|
 |2|[S. Athey, J. Tibshirani and S. Wager (2018), "Generalized Random Forests", _Annals of Statistics_, Vol. 47(2), 1148-1178](https://arxiv.org/abs/1610.01271)|
 |3|[S. Athey and S. Wager (2018), "Estimation and Inference of Heterogeneous Treatment Effects Using Random Forests", _Journal of the American Statistical Association_, Vol. 113, 1228-1242](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1319839?needAccess=true)|
-|4|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
-|5|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
-|6|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
+|4|[S. Künzel, J. Sekhon, P. Bickel and B. Yu (2019), "Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning", _Proceedings of the National Academy of Sciences_, Vol. 116(10), 4156-4165](https://arxiv.org/abs/1706.03461)|
+|5|[A. Nicholas and L. McBride (2019), "Propensity Scores and Causal Inference Using Machine Learning Methods", Stata Conference, 13](http://lindenmcbride.com/uploads/3/6/2/2/36225639/psw_ml.pdf)|
+|6|[M. Oprescu, V. Syrgkanis and Z. Wu (2019), "Orthogonal Random Forest for Causal Inference", _Proceedings of the 36th International Conference on Machine Learning_,Papers 1806.03467, arXiv.org](https://arxiv.org/pdf/1806.03467.pdf)|
+|7|[R. Pirracchio, M. Petersen and M. van der Laan (2015), "Improving Propensity Score Estimators' Robustness to Model Misspecification Using Super Learner", _American Journal of Epidemiology_, Vol. 181(2), 108-119](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351345/)|
 
 ### Interrupted Time Series Analysis
 |Id|Name|
