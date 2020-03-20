@@ -45,6 +45,7 @@
 |Id|Name|
 |-|-|
 |1|[A. Abadie and G. Imbens (2011), "Bias-Corrected Matching Estimators for Average Treatment Effects", _Journal of Business & Economic Statistics_, Vol. 29(1), 1-11](https://economics.mit.edu/files/11861)|
+|2|[P. Austin and E. Stuart (2015), "Moving towards Best Practice When Using Inverse Probability of Treatment Weighting (IPTW) Using the Propensity Score to Estimate Causal Treatment Effects in Observational Studies", _Statistics in Medicine_, Vol. 34(28): 3661–3679](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4626409/)|
 |2|[B. Lee, J. Lessler and E. Stuart (2011), "Weight Trimming and Propensity Score Weighting", _PLoS ONE_, 6(3): e18174](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069059/)|
 |3|[G. King and R. Nielsen (2018), "Why Propensity Scores should not be Used for Matching", _Political Analysis_, 27(4), 1-20](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)|
 |4|[T. Stümer, S. Schneeweiss, J. Avorn and R. Glynn (2005),"Adjusting Effect Estimates for Unmeasured Confounding with Validation Data using Propensity Score Calibration", _American Journal of Epidemiology_, Vol. 162, 279-289](https://academic.oup.com/aje/article/162/3/279/171198)|
